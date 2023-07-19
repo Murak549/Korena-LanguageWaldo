@@ -36,13 +36,13 @@
  ABILITY_FASTER_NAVAL_PLANNING_DESC:1 "Requsition additional landing craft and resources for a naval invasion."
  ABILITY_PROBING_ATTACK:0 "Probing Attack"
  ABILITY_PROBING_ATTACK_DESC:1 "Divisions do not lose their entrenchment bonus when attacking, but do not fully commit to battle."
- ABILITY_MAKESHIFT_BRIDGES:0 "Makeshift Bridges"
- ABILITY_MAKESHIFT_BRIDGES_DESC:1 "Building makeshift bridges will reduce river crossing penalties in combat."
- ABILITY_EXTRA_SUPLIES:1 "Extra Supplies"
- ABILITY_EXTRA_SUPLIES_DESC:1 "Extra supplies are acquired for the troops."
- ABILITY_REQUISITION_WINTER_GEAR:0 "Requisition Winter Gear"
- ABILITY_REQUISITION_WINTER_GEAR_DESC:1 "Winter gear will provide a bonus to cold weather acclimatization."
- ABILITY_ON_ADD:0 "On Execute:"
- ABILITY_ON_HOURLY:0 "On Each Hour:"
- ABILITY_ON_DAILY:0 "On Each Day:"
+ ABILITY_MAKESHIFT_BRIDGES:0 "일시적인 다리"   ####  Makeshift Bridges
+ ABILITY_MAKESHIFT_BRIDGES_DESC:1 "건설하는 일시적인 다리들은 간을 교차하는 형벌을 줄일 것입니다."    ####  Building makeshift bridges will reduce river crossing penalties in combat.
+ ABILITY_EXTRA_SUPLIES:1 "조연 비축"   ####  Extra Supplies
+ ABILITY_EXTRA_SUPLIES_DESC:1 "조연 공급이 구입된 군대입니다."    ####  Extra supplies are acquired for the troops.
+ ABILITY_REQUISITION_WINTER_GEAR:0 "청구하는 겨울 톱니바퀴"      ####  Requisition Winter Gear
+ ABILITY_REQUISITION_WINTER_GEAR_DESC:1 "겨울 톱니바퀴는 추위 날씨 습관화에게 장려금을 마련합니다."   ####  Winter gear will provide a bonus to cold weather acclimatization.
+ ABILITY_ON_ADD:0 "작동하는 집행"                  ####  On Execute:
+ ABILITY_ON_HOURLY:0 "작동하는 각자의 시각"        ####  On Each Hour:
+ ABILITY_ON_DAILY:0 "작동하는 각자의 낮"           ####  On Each Day:
  
