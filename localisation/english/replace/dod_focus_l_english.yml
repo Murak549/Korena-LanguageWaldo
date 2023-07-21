@@ -145,7 +145,7 @@
  HUN_heavy_fighter_effort_desc:0 "Our fighters must be able to support the more vulnerable bomber airplanes. This requires heavier armament and longer range at the cost of some speed and maneuverability."
  HUN_light_fighter_effort:0 "Light Fighter Effort"
  HUN_light_fighter_effort_desc:0 "We need fighter aircraft to acquire local air superiority in the skies above our forces, and to intercept any enemy planes that threaten our nation."
- HUN_cas_focus:0 "CAS Focus"
+ HUN_cas_focus:0 "카스 집중"
  HUN_cas_focus_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
  HUN_tac_focus:1 "Tactical Bomber Focus"
  HUN_tac_focus_desc:0 "Victory will be achieved by annihilating the enemy's ground forces. We must focus on supporting our own armies with tactical strikes against close and deep targets."

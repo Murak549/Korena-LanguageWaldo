@@ -1,5 +1,5 @@
 ﻿l_english:
- treaty_org.1.t:0 "The Treaty of Brussels"
+ treaty_org.1.t:0 "브뤼셀 조약"
  treaty_org.1.desc:0 "With the immediate global threat dealt with, tenuous arrangements between the [SOV.GetNameDef] and their western allies have begun to deteriorate.\n\nFearing an irrevocable breakdown in communications combined with opposing ambitions in Europe - as evidenced by recent developments in East Germany - [FROM.GetNameDef] has proposed a treaty of mutual assistance, during a hurried conference in Brussels."
  treaty_org.1.a:0 "The eastern threat must be contained."
  treaty_org.1.b:0 "We don't need another war..."

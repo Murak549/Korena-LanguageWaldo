@@ -9,14 +9,14 @@
  SUB_MESSAGE_new_sub_TITLE:0 "Congratulations! You're subscribed"
  SUB_MESSAGE_new_sub_DESC:0 ""
  SUB_MESSAGE_POPUP_DLC:0 "All DLC included!\nAccess all expansions, country packs, and unit models immediately. You will also get all new DLC on the day of their release."
- SUBSCRIPTION_WIDGET:0 "Subscribe and get access to all DLC!"
+ SUBSCRIPTION_WIDGET:0 "구독하고 모든 DLC의 접근을 얻으세요!"
  SUBSCRIPTION_WIDGET_SUBSCRIBED:0 "Subscription is active!"
  SUBSCRIPTION_RESTART_TITLE:0 "Download new content"
  SUBSCRIPTION_RESTART_DESCRIPTION:0 "You can download and install all DLC in Steam. The game need to be restarted for the new DLC to be available."
 
  # Career profile
  MENU_BAR_CAREER_PROFILE:0 "항공모함 옆모습"
- MENU_BAR_PLAYTHROUGH_STATS:0 "Playthrough Overview"
+ MENU_BAR_PLAYTHROUGH_STATS:0 "연주하다 개관"
  CAREER_PROFILE_TITLE:0 "항공모함 옆모습"
  CAREER_PROFILE_ALL_COUNTRIES:1 "모든 군가"
  CAREER_PROFILE_GENERAL:0 "장군"
@@ -24,7 +24,7 @@
  CAREER_PROFILE_DETAILED:0 "Detailed"
  CAREER_PROFILE_SUBSCRIBE:0 "Subscribe to all DLC"
 
- PLAYTHROUGH_STATS_TITLE:0 "Playthrough Overview"
+ PLAYTHROUGH_STATS_TITLE:0 "연주하다 개관"
  PLAYTHROUGH_STATS_STARTING_DATE:0 "Started $DATE$"
  PLAYTHROUGH_STATS_LOCKED:1 "Not available in the observer mode"
 

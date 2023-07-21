@@ -35,7 +35,7 @@
  DOD_hungary.11.a:0 "Another step on the way to reclaim our birthright."
  DOD_hungary.12.t:0 "Bohemia agrees to closer relationship"
  DOD_hungary.12.desc:0 "Treading a careful balance between the republican and the monarchist factions in his government, [CZE.GetLeader] has opted for a compromise solution. [HUN.GetLeader] will be declared King of Bohemia and Moravia, but the [CZE.GetAdjective] constitution will limit his powers to only act with the advice and consent of parliament."
- DOD_hungary.12.a:0 "Acceptable."
+ DOD_hungary.12.a:0 "수락할만한."
  DOD_hungary.13.t:0 "[CZE.GetNameDefCap] refuses advances"
  DOD_hungary.13.desc:0 "[CZE.GetNameDefCap] has refused to entertain any kind of settlement or agreement concerning their future relationship with us. When our ambassador arrived at the foreign office to discuss the official note he had delivered earlier, he was told that there was nothing to talk about, and quickly shown out the door. The [CZE.GetAdjective] ambassador to our government has declared that, while his government wants a peaceful and friendly relationship between our nations, there is no possibility of incorporating [CZE.GetNameDef] into the Austro-Hungarian Empire."
  DOD_hungary.13.a:0 "That is unfortunate."

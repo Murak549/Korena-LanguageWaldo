@@ -59,7 +59,7 @@
  FACTION_NAME_NONALIGNED_4:0 "Confederate $CONTINENT_ADJ$ Nations"
  FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
  HOL_benelux:0 "Benelux"
- european_union:0 "European Union"
+ european_union:0 "유럽인 조합"
  MTG_USA_NORTH_AMERICAN_DOMINION_FACTION:0 "The Coalition"
  anglo_italian_pact:1 "Anglo-Italian Pact"
  ENG_coalition_of_free_commonwealth_states:0 "Coalition of Free Commonwealth States"
