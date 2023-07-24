@@ -18,8 +18,8 @@
  ALLOCATED_CP_ENTRY:0 "$NAME$ ($DURATION$)"
  ABILITY_DUR_HOURS:0 "$num|H$ 시각"
  ABILITY_DUR_DAYS:0 "$num|H$ 일"
- ABILITY_LAST_STAND:0 "마지막 서있다"
- ABILITY_LAST_STAND_TOOLTIP:0 "마지막 서있다 ($LEADER$)"    ####  stand 를 노점으로?
+ ABILITY_LAST_STAND:0 "마지막 노점"
+ ABILITY_LAST_STAND_TOOLTIP:0 "마지막 노점 ($LEADER$)"
  ABILITY_LAST_STAND_DESC:0 "너는 큰 무리 감염될 것이다 주의하는 장려금 에 경비 의 어떤 불리."     ####  Your armies will get a defensive bonus at the expense of some disadvantages.
  ABILITY_FORCE_ATTACK:0 "무력 공격"
  ABILITY_FORCE_ATTACK_TOOLTIP:0 "무력 공격 ($LEADER$)"
