@@ -1477,8 +1477,8 @@
  SWI_ENG_puppet_democratic_ADJ:0 "Alpine"
 
  SWI_GER_puppet_fascism:0 "Schweizerische 
- SWI_GER_puppet_fascism_DEF 제국 보호령:0 "Swiss 
- SWI_GER_puppet_fascism_ADJ 제국 보호령:0 "Swiss"
+ SWI_GER_puppet_fascism_DEF:0 "제국 보호령 "Swiss 
+ SWI_GER_puppet_fascism_ADJ:0 "제국 보호령 "Swiss"
  SWI_FRA_puppet_fascism:0 "Nation Hélvetique"
  SWI_FRA_puppet_fascism_DEF:0 "Nation Hélvetique"
  SWI_FRA_puppet_fascism_ADJ:0 "Helvetic"
