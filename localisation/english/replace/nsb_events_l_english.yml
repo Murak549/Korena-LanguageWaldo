@@ -17,7 +17,7 @@
  BALTIC_events.202.a:0 "How dare they reject us!"
  BALTIC_events.203.t:0 "The Baltic Entente Abandoned!"
  BALTIC_events.203.d:0 "Failing to gather enough support to withstand a [SOV.GetAdjective] invasion, [From.GetLeader] has decided to abandon the idea of the Baltic Entente and instead look for other options. Much to the collective disappointment of our nation, the dream of standing against the [SOV.GetAdjective] army alongside our friends in [From.GetNameDef] shall remain just that; a dream."
- BALTIC_events.203.a:0 "Disappointing."
+ BALTIC_events.203.a:0 "실망요."
  BALTIC_events.3.t:0 "[From.GetNameDefCap] Requests Direct Intervention"
  BALTIC_events.3.d:0 "The civil war between [From.GetLeader]’s [From.GetAdjective] people’s army and the misguided proletariat fighting on behalf of [From.GetNonIdeologyName]’s bourgeois dictatorship rages on, but it would seem that [From.GetLeader] has proved incapable of leading the revolution to victory alone. A message was delivered to the desk of [Root.GetLeader] from the [Root.GetAdjective] ambassador in [From.GetNonIdeologyName], expressing concerns about the future of the [From.GetAdjective] revolutionaries. He believes that if this civil war is defeated, it will spell the end for any hope of socialism succeeding in [From.GetNonIdeologyName]."
  BALTIC_events.3.a:0 "Direct action is necessary!"
